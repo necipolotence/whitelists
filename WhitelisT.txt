@@ -35,3 +35,4 @@ a8927d517dc469c93afcacc154d6dfb3d8b2c45dc08de5095c46c0cb0d4d1e3a
 13.107.4.50
 https://www.virustotal.com
 https://www.mcafee.com
+https://stats.avito.ru

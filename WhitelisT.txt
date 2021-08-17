@@ -42,3 +42,4 @@ https://stats.avito.ru
 17.0.0.0
 192.0.0.0
 103.0.0.0
+code.jquery.com

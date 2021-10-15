@@ -88,3 +88,5 @@ api.vk.com
 st1-19.vk.com
 s7airlinesru.solution.weborama.fr
 kbmk.info
+connect.ok.ru
+de.tynt.com

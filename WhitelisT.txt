@@ -82,3 +82,4 @@ d0164c041707f297a73abb9ea854111953e99cf1
 https://upload.wikimedia.org
 www.paypal.com
 http://crl.sca1b.amazontrust.com/sca1b.crl
+builds.cdn.getgo.com

@@ -90,3 +90,5 @@ s7airlinesru.solution.weborama.fr
 kbmk.info
 connect.ok.ru
 de.tynt.com
+beacon-ams3.rubiconproject.com
+pixel-eu.rubiconproject.com

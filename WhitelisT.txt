@@ -81,3 +81,4 @@ d0164c041707f297a73abb9ea854111953e99cf1
 2abf0aab5a3c5ae9424b64e9d19d9d6d4aebc67814d7e92e4927b9798fef2848
 https://upload.wikimedia.org
 www.paypal.com
+http://crl.sca1b.amazontrust.com/sca1b.crl

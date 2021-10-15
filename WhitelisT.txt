@@ -83,3 +83,4 @@ https://upload.wikimedia.org
 www.paypal.com
 http://crl.sca1b.amazontrust.com/sca1b.crl
 builds.cdn.getgo.com
+crl.sca1b.amazontrust.com

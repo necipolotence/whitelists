@@ -84,3 +84,5 @@ www.paypal.com
 http://crl.sca1b.amazontrust.com/sca1b.crl
 builds.cdn.getgo.com
 crl.sca1b.amazontrust.com
+api.vk.com
+st1-19.vk.com

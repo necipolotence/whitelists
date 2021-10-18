@@ -94,5 +94,3 @@ connect.ok.ru
 de.tynt.com
 beacon-ams3.rubiconproject.com
 pixel-eu.rubiconproject.com
-googleads.g.doubleclick.net
-vz.ru

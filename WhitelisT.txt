@@ -95,3 +95,4 @@ de.tynt.com
 beacon-ams3.rubiconproject.com
 pixel-eu.rubiconproject.com
 hirurgiya.medmente.ru
+urlhaus.abuse.ch

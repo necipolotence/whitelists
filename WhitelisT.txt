@@ -99,3 +99,4 @@ urlhaus.abuse.ch
 www.msn.com
 iqmen.ru
 comp-security.net
+iru.ru

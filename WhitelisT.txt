@@ -108,3 +108,4 @@ dmp.vihub.ru
 zn48.ru
 pixel.rubiconproject.com
 update.medsoftpro.ru
+counter.yadro.ru

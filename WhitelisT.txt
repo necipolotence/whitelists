@@ -112,3 +112,4 @@ counter.yadro.ru
 pr.ybp.yahoo.com
 connect.ok.ru
 www.tinkoff.ru
+upload.wikimedia.org

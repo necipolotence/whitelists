@@ -116,3 +116,4 @@ upload.wikimedia.org
 msrc-blog.microsoft.com
 www.eldorado.ru
 tag.js
+xray.mail.ru/update

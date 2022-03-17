@@ -122,3 +122,4 @@ xray.mail.ru/update
 /jquery-3.3.1.min.js
 helpx.adobe.com
 194.54.14.131
+gateway.fe.apple-dns.net

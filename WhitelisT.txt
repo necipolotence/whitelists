@@ -125,3 +125,4 @@ helpx.adobe.com
 194.54.14.131
 gateway.fe.apple-dns.net
 https://privetmir.ru
+e-trust.gosuslugi.ru

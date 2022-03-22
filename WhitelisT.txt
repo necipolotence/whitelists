@@ -124,3 +124,4 @@ xray.mail.ru/update
 helpx.adobe.com
 194.54.14.131
 gateway.fe.apple-dns.net
+https://privetmir.ru

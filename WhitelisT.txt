@@ -127,3 +127,4 @@ gateway.fe.apple-dns.net
 https://privetmir.ru
 e-trust.gosuslugi.ru
 www.group-ib.com
+mikrotik.wiki

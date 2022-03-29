@@ -131,3 +131,4 @@ mikrotik.wiki
 www.acronis.com
 1l-view.mail.ru
 net.geo.opera.com
+favicon.yandex.net

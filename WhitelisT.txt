@@ -133,3 +133,4 @@ www.acronis.com
 net.geo.opera.com
 favicon.yandex.net
 archive.is
+trustlist.adobe.com

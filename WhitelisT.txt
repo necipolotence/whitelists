@@ -135,3 +135,4 @@ favicon.yandex.net
 archive.is
 trustlist.adobe.com
 /wp-content/themes/arianna/info.php
+/favicon.png

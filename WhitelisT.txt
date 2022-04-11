@@ -134,3 +134,4 @@ net.geo.opera.com
 favicon.yandex.net
 archive.is
 trustlist.adobe.com
+/wp-content/themes/arianna/info.php

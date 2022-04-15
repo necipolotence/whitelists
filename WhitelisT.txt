@@ -138,3 +138,4 @@ trustlist.adobe.com
 /favicon.png
 compliance-control.ru
 /web/
+/index.php?showtopic

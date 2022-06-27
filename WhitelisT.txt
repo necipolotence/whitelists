@@ -148,3 +148,4 @@ sjsmartcontent.org
 /images/wp-content/themes/MagMan/timthumb.php
 /wp-content/themes/Little_United_Nations/js/prototype.js.php
 s-t-r-o-y.ru
+bigkotel.ru

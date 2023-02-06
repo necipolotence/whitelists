@@ -184,3 +184,7 @@ stat.videonow.ru
 events.getsitectrl.com
 r.rbc.ru
 culturaltracking.ru
+intake-logging.wikimedia.org
+dct.mango-office.ru
+t.adx.opera.com
+s.clicktex.ru

@@ -173,3 +173,6 @@ apogey-bk.ru
 /office
 relap.mail.ru
 statad.ru
+log.dzen.ru
+metrika-informer.com
+analytics.dns-shop.ru

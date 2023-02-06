@@ -176,3 +176,7 @@ statad.ru
 log.dzen.ru
 metrika-informer.com
 analytics.dns-shop.ru
+instreamvideo.ru
+tracking.diginetica.net
+get4click.ru
+rtb.wedeo.ru

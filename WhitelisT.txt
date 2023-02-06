@@ -188,3 +188,8 @@ intake-logging.wikimedia.org
 dct.mango-office.ru
 t.adx.opera.com
 s.clicktex.ru
+cdn.ddmanager.ru
+track.adspire.io
+mc.admetrica.ru
+cc.calltracking.ru
+api.tomi.ai

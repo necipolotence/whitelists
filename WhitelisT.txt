@@ -171,3 +171,5 @@ cr.arcspire.io
 cmed72.ru
 apogey-bk.ru
 /office
+relap.mail.ru
+statad.ru

@@ -193,3 +193,4 @@ track.adspire.io
 mc.admetrica.ru
 cc.calltracking.ru
 api.tomi.ai
+in.appcenter.ms

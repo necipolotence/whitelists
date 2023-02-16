@@ -195,3 +195,5 @@ cc.calltracking.ru
 api.tomi.ai
 in.appcenter.ms
 ad.3dnews.ru
+www.google-analytics.com
+google-analytics.com

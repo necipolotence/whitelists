@@ -203,3 +203,5 @@ play.google.com
 skk-dv.ru
 sb-ssl.google.com
 www.googleoptimize.com
+safebrowsing.google.com
+142.250.74.78

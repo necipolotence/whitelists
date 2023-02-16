@@ -197,3 +197,8 @@ in.appcenter.ms
 ad.3dnews.ru
 www.google-analytics.com
 google-analytics.com
+dl.google.com
+clients2.google.com
+play.google.com
+skk-dv.ru
+sb-ssl.google.com

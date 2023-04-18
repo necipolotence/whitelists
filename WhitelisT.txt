@@ -209,3 +209,4 @@ safebrowsing.google.com
 /v1.1/
 qvol.tv
 kimberlite.io
+ad.video-mech.ru

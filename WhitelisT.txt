@@ -207,3 +207,5 @@ safebrowsing.google.com
 142.250.74.78
 217.69.139.209
 /v1.1/
+qvol.tv
+kimberlite.io

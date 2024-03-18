@@ -226,3 +226,4 @@ labnario.com
 www.phag-rostov.ru
 orfographia.ru
 www.malwarebytes.com
+/js/jquery/jquery.js

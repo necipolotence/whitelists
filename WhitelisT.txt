@@ -236,3 +236,6 @@ any.run
 104.21.15.132
 consent.google.com
 intel.com
+ardownload3.adobe.com
+rkc56.ru
+septik27.ru

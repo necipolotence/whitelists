@@ -254,3 +254,6 @@ play.googleapis.com
 d15k2d11r6t6rl.cloudfront.net
 activefisher.net
 b24.spectr-rs.ru
+arstechnica.com
+moalapaevsk.ru
+rozadv.ru
